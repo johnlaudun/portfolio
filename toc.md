@@ -1,4 +1,4 @@
-# Portfolio Contents
+# John Laudun
 
 ## Publications
 
@@ -6,15 +6,17 @@
 
 Laudun, John. 2016. The Amazing Crawfish Boat. In the "Folklore Series in a Multicultural World" series (sponsored by the Andrew Mellon Foundation). University Press of Mississippi. PDF of first three chapters.
 
-## Articles & Chapters
+### Articles & Chapters
 
-Laudun, John. [2021]. Weathering the Storm: Folk Ideas about Character. In Weatherlore. Ed. Shelley Ingram and Willow Mullins. (Accepted.)
+Laudun, John. [2022]. Weathering the Storm: Folk Ideas about Character. In Weatherlore. Ed. Shelley Ingram and Willow Mullins. (Accepted.)
 
-Laudun, John. [2020]. Repairing Knowledge. In Technical Cultures of Repair: From Prehistory to the Present Day. Ed. Liliane Hilaire-Pérez, Gianenrico Bernasconi, Guillaume Carnino and Olivier Raveux. Brepols Publishers. (Forthcoming.)
+Laudun, John. 2021. Repairing Knowledge. In _Les Réparations dans l'Histoire: Cultures Techniques et Savoir-Faire dans la Longue Durée_, 395–406. Ed. Gianenrico Bernasconi, Guillaume Carnino, Liliane Hilaire-Pérez, and Olivier Raveux. Presses des Mines – Transvalor.
+
+Laudun, John et al. 2021. The Department Of Defense’s Multidomain Operations Challenge. Global Security Review ﴾October 21﴿. https://globalsecurityreview.com/defense‐department‐multidomain‐operations‐challenge/. 
+
+Laudun, John. 2021. Narrative as a Mode of Vernacular/Folk Discourse. _Western Folklore_ 80.3/4 ﴾Summer/Fall 2021﴿: 401‐435.
 
 Laudun, John. [2020]. The Clown Legend Cascade of 2016. In Folklore and Social Media. Ed. Trevor Blank. SUNY Press. (Forthcoming.)
-
-Laudun, John. [2020]. The Modes of Vernacular Discourse. Western Folklore (accepted).
 
 Laudun, John. 2019. Folklore as a Networked Economy: How a Recently-Invented-but-Traditional Artifact Reveals the Way Folkloric Production Has Always Worked. In Folklorists in the Marketplace, 26-46. Ed. Willow Mullins and Puja Batra-Wells. Utah State University Press. PDF
 
@@ -68,18 +70,19 @@ Laudun, John. 1996. Folkways. In American Folklore: An Encyclopedia, 295–298. 
 
 Laudun, John. 1990. The Poetics of Virtual Space: Designing a Contiguous Architecture for Hypertexts. In Multiple Perspectives: Courseware Development Using Hypercard. Syracuse, NY: Syracuse University Writing Program.
 
-Miscellaneous (Essays, Television, CD)
-2013. Dangerous Games. Chronicle of Higher Education (October 1).
+### Miscellaneous (Essays, Television, CD)
+
+2013\. Dangerous Games. Chronicle of Higher Education (October 1).
 
 Bale, Rachel. 2013. Worker Suffocations Persist as Grain Storage Soars. Rachel Bale: Journalist (April 17). https:///www.rachaelbale.com/worker-suffocations-persist-as-grain-storage-soars-employers-flout-safety-rules/. Photographic credit.
 
-2009. From Stories to Services: A Humanistic Methodology for Arriving at a Description of a Digital Infrastructure in Support of the Humanities. Project Bamboo Consortium.
+2009\. From Stories to Services: A Humanistic Methodology for Arriving at a Description of a Digital Infrastructure in Support of the Humanities. Project Bamboo Consortium.
 
-2008. Reckonings: Finding Out Where We Are, In Louisiana Crossroads: 2-9. Lafayette, Louisiana: Acadiana Arts Council.
+2008\. Reckonings: Finding Out Where We Are, In Louisiana Crossroads: 2-9. Lafayette, Louisiana: Acadiana Arts Council.
 
-2008. Lou Trahan: Mask Maker. Louisiana: The State We’re In. Louisiana Public Broadcasting (Original broadcast: February 8).
+2008\. Lou Trahan: Mask Maker. Louisiana: The State We’re In. Louisiana Public Broadcasting (Original broadcast: February 8).
 
-2007. “Where Mind and Metal Meet,” In Louisiana Crossroads, 2-7. Lafayette, Louisiana: Acadiana Arts Council.
+2007\. “Where Mind and Metal Meet,” In Louisiana Crossroads, 2-7. Lafayette, Louisiana: Acadiana Arts Council.
 
 2007. John Colson: Filé Maker. Louisiana: The State We’re In. Louisiana Public Broadcasting (Original broadcast: February 14).
 
@@ -101,79 +104,81 @@ Bale, Rachel. 2013. Worker Suffocations Persist as Grain Storage Soars. Rachel B
 
 2001. Imperial Saint Landry Regional Center, Army Corps of Engineers (script for video presentation).
 
-Presentations
-Conference Papers
-2019. Modes of Vernacular Discourse. American Folklore Society (Baltimore, MD).
+## Presentations
 
-2019. “Are We Not Doing Phrasing Anymore?”: Re-Thinking Statistical Approaches to Narrative. Symposium on Data Science & Statistics (Bellevue, WA).
+### Conference Papers
 
-2018. Louisiana Treasure Legends. Louisiana Folklore Society (Houma, LA).
+2019\. Modes of Vernacular Discourse. American Folklore Society (Baltimore, MD).
 
-2018. It's about Time: How Folk Narratives Manage Time in Discourse. American Folklore Society (Buffalo, NY).
+2019\. “Are We Not Doing Phrasing Anymore?”: Re-Thinking Statistical Approaches to Narrative. Symposium on Data Science & Statistics (Bellevue, WA).
 
-2017. The Shape of Small Stories: Towards an Economy of Legendry. New Directions in the Humanities (London, UK).
+2018\. Louisiana Treasure Legends. Louisiana Folklore Society (Houma, LA).
 
-2017. The Clown Legend Cascade of 2016. International Society for Contemporary Legend Research (Lafayette, LA).
+2018\. It's about Time: How Folk Narratives Manage Time in Discourse. American Folklore Society (Buffalo, NY).
 
-2017. Repairing Knowledge: A Case Study in Natural Knowledge Construction. CONSTRUIT (University of Warwick, Coventry, UK). PDF.
+2017\. The Shape of Small Stories: Towards an Economy of Legendry. New Directions in the Humanities (London, UK).
+
+2017\. The Clown Legend Cascade of 2016. International Society for Contemporary Legend Research (Lafayette, LA).
+
+2017\. Repairing Knowledge: A Case Study in Natural Knowledge Construction. CONSTRUIT (University of Warwick, Coventry, UK). PDF.
 
 Kinnaird, Katherine and John Laudun. 2016. Ten Years of TED Talks: Understanding the Dimensions of a Cultural Phenomenon. International Conference on Social Informatics (SOCINFO).
 
 Gao, Jianbo, Matthew Jockers, John Laudun, Timothy Tangherlini. 2016. A multiscale theory for the dynamical evolution of sentiment in novels. International Conference on Behavioral, Economic and Socio-cultural Computing (BESC). DOI: 10.1109/BESC.2016.7804470.
 
-2016. Trucks under Water: A Louisiana Legend from the 2016 Flood. American Folklore Society (Miami, FL).
+2016\. Trucks under Water: A Louisiana Legend from the 2016 Flood. American Folklore Society (Miami, FL).
 
-2015. Counting Tales: A Computational Approach to Fairy Tale Study. At the Crossroads of Data and Wonder Symposium. Brigham Young University (Provost, UT).
+2015\. Counting Tales: A Computational Approach to Fairy Tale Study. At the Crossroads of Data and Wonder Symposium. Brigham Young University (Provost, UT).
 
-2015. The Story of a Pirate in a Tree: Using Network Analysis to Find treasure. Modern Language Association (Vancouver, British Columbia, Canada).
+2015\. The Story of a Pirate in a Tree: Using Network Analysis to Find treasure. Modern Language Association (Vancouver, British Columbia, Canada).
 
-2015. The Shape of Legends: Towards an Algorithmic/Augmented Analysis of Folk Narrative. International Society for Contemporary Legend Research (San Antonio, TX.)
+2015\. The Shape of Legends: Towards an Algorithmic/Augmented Analysis of Folk Narrative. International Society for Contemporary Legend Research (San Antonio, TX.)
 
-2014. Why Count Words?: Folklore’s Contribution to the Computational Model of Narrative. American Folklife Center, Library of Congress (Washington, D.C.).
+2014\. Why Count Words?: Folklore’s Contribution to the Computational Model of Narrative. American Folklife Center, Library of Congress (Washington, D.C.).
 
-2014. The Matter of Mardi Gras: How Local Festivals Gather and Disperse Materiel across a Landscape. The Mathers Museum, Indiana University (Bloomington, Indiana).
+2014\. The Matter of Mardi Gras: How Local Festivals Gather and Disperse Materiel across a Landscape. The Mathers Museum, Indiana University (Bloomington, Indiana).
 
 Laudun, John and Jonathan Goodwin. 2014. Mapping Networks in Service of Intellectual History: How Topic Models and Co-Citation Networks Describe a Paradigm Shift in a Humanities Discipline. Texas Digital Humanities Conference (Houston, Texas).
 
-2014. Using Topic Models and Morphologies to Understand Folk Narrative. Modern Language Association (Chicago, Illinois).
+2014\. Using Topic Models and Morphologies to Understand Folk Narrative. Modern Language Association (Chicago, Illinois).
 
-2014. The Vernacular in Architecture and What It Means for the Future. Vernacular Inventions, Center for Louisiana Studies (Lafayette, LA). URL.
+2014\. The Vernacular in Architecture and What It Means for the Future. Vernacular Inventions, Center for Louisiana Studies (Lafayette, LA). URL.
 
-2014. Counting Tales: Folklore’s Contribution to the Computational Model of Narrative. American Folklore Society (Santa Fe, NM).
+2014\. Counting Tales: Folklore’s Contribution to the Computational Model of Narrative. American Folklore Society (Santa Fe, NM).
 
-2013. Counting Tales: Towards a Computational Narratology. Chinese Academy of Social Sciences (Beijing, China).
+2013\. Counting Tales: Towards a Computational Narratology. Chinese Academy of Social Sciences (Beijing, China).
 
-2013. Understanding Larger Histories through Smaller Legends. International Forum for Kunlun Culture (Golmud, Qinghai, China).
+2013\. Understanding Larger Histories through Smaller Legends. International Forum for Kunlun Culture (Golmud, Qinghai, China).
 
-2013. Locating Louisiana Legends: Tallying Treasure Tales. International Society for Contemporary Legend Research (Lexington, Kentucky).
+2013\. Locating Louisiana Legends: Tallying Treasure Tales. International Society for Contemporary Legend Research (Lexington, Kentucky).
 
-2013. Computing Folklore Studies: An Exploration of the Intellectual Landscape and History of Folklore Studies over the Past Century. American Folklore Society (Providence, Rhode Island).
+2013\. Computing Folklore Studies: An Exploration of the Intellectual Landscape and History of Folklore Studies over the Past Century. American Folklore Society (Providence, Rhode Island).
 
-2012. Pulling Up Holes, Pulling Down Hills: How People Who Actually Work the Land Understand the Landscape on Which They Work. American Folklore Society (New Orleans, Louisiana).
+2012\. Pulling Up Holes, Pulling Down Hills: How People Who Actually Work the Land Understand the Landscape on Which They Work. American Folklore Society (New Orleans, Louisiana).
 
-2011. Visualizing a Paradigm Shift: The Turn Towards Performance as a Network Phenomenon. American Folklore Society (Bloomington, Indiana).
+2011\. Visualizing a Paradigm Shift: The Turn Towards Performance as a Network Phenomenon. American Folklore Society (Bloomington, Indiana).
 
-2011. Mama Lou and Her Coterie of Experts. American Folklore Society (Bloomington, Indiana).
+2011\. Mama Lou and Her Coterie of Experts. American Folklore Society (Bloomington, Indiana).
 
-2011. Counting Clouds in the Digital Humanities. Language, Literature, and Lore: UL Graduates Student Conference (Lafayette, Louisiana) — plenary session on technology and pedagogy.
+2011\. Counting Clouds in the Digital Humanities. Language, Literature, and Lore: UL Graduates Student Conference (Lafayette, Louisiana) — plenary session on technology and pedagogy.
 
-2011. A History of Folk Invention. Society for the History of Technology (Cleveland, Ohio).
+2011\. A History of Folk Invention. Society for the History of Technology (Cleveland, Ohio).
 
-2010. The Blue Spark of Creativity. American Folklore Society (Nashville, Tennessee).
+2010\. The Blue Spark of Creativity. American Folklore Society (Nashville, Tennessee).
 
-2010. Calling a Star by Name. American Folklore Society (Nashville, Tennessee).
+2010\. Calling a Star by Name. American Folklore Society (Nashville, Tennessee).
 
-2009. “If You Go to Hell, This Is What You’ll Be Doing”: The Role of Rich-Mode Thinking in Fabrication. American Folklore Society (Boise, Idaho).
+2009\. “If You Go to Hell, This Is What You’ll Be Doing”: The Role of Rich-Mode Thinking in Fabrication. American Folklore Society (Boise, Idaho).
 
-2009. The Ethics of Creativity on the Rice Prairies of Louisiana. American Folklore Society (Boise, Idaho).
+2009\. The Ethics of Creativity on the Rice Prairies of Louisiana. American Folklore Society (Boise, Idaho).
 
-2009. From Stories to Services: A Humanistic Methodology for Arriving at a Description of a Digital Infrastructure in Support of the Humanities. Project Bamboo (Workshop 3; Tucson, Arizona).
+2009\. From Stories to Services: A Humanistic Methodology for Arriving at a Description of a Digital Infrastructure in Support of the Humanities. Project Bamboo (Workshop 3; Tucson, Arizona).
 
-2009. A Technological Ouroboros: Searching Scholarly Narratives in Hopes of Founding a Cyberinfrastructure for the Humanities. IEEE Conference on e-Science (Oxford, England).
+2009\. A Technological Ouroboros: Searching Scholarly Narratives in Hopes of Founding a Cyberinfrastructure for the Humanities. IEEE Conference on e-Science (Oxford, England).
 
-2008. Centering and Re-Centering Humanities Research. Project Bamboo. The Andrew Mellon Foundation, the University of Chicago, and the University of California at Berkeley (Chicago, Illinois).
+2008\. Centering and Re-Centering Humanities Research. Project Bamboo. The Andrew Mellon Foundation, the University of Chicago, and the University of California at Berkeley (Chicago, Illinois).
 
-2008. Genius Loci: Towards a Folkloristic Ethnography of Creativity. American Folklore Society.
+2008\. Genius Loci: Towards a Folkloristic Ethnography of Creativity. American Folklore Society.
 
 2008. Ein bato kit e navigue on la terre com one la mer: Culture and Creativity on a Louisiana Landscape. English Department Symposium.
 
