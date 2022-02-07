@@ -1,14 +1,23 @@
-# John Laudun
+# Vita
+
+John Laudun  
+Department of English  
+University of Louisiana  
+Lafayette, LA 70504  
+laudun at louisiana dot edu  
+[Website](https://johnlaudun.net/)  
+[GitHub](https://github.com/johnlaudun)  
+[@johnlaudun](https://twitter.com/johnlaudun)
 
 ## Publications
 
 ### Book
 
-Laudun, John. 2016. The Amazing Crawfish Boat. In the "Folklore Series in a Multicultural World" series (sponsored by the Andrew Mellon Foundation). University Press of Mississippi. PDF of first three chapters.
+Laudun, John. 2016. _The Amazing Crawfish Boat_. In the "Folklore Series in a Multicultural World" series (sponsored by the Andrew Mellon Foundation). University Press of Mississippi.
 
 ### Articles & Chapters
 
-Laudun, John. [2022]. Weathering the Storm: Folk Ideas about Character. In Weatherlore. Ed. Shelley Ingram and Willow Mullins. (Accepted.)
+Laudun, John. [2022]. Weathering the Storm: Folk Ideas about Character. In _Weatherlore_. Ed. Shelley Ingram and Willow Mullins.
 
 Laudun, John. 2021. Repairing Knowledge. In _Les Réparations dans l'Histoire: Cultures Techniques et Savoir-Faire dans la Longue Durée_, 395–406. Ed. Gianenrico Bernasconi, Guillaume Carnino, Liliane Hilaire-Pérez, and Olivier Raveux. Presses des Mines – Transvalor.
 
@@ -84,25 +93,26 @@ Bale, Rachel. 2013. Worker Suffocations Persist as Grain Storage Soars. Rachel B
 
 2007\. “Where Mind and Metal Meet,” In Louisiana Crossroads, 2-7. Lafayette, Louisiana: Acadiana Arts Council.
 
-2007. John Colson: Filé Maker. Louisiana: The State We’re In. Louisiana Public Broadcasting (Original broadcast: February 14).
+2007\. John Colson: Filé Maker. Louisiana: The State We’re In. Louisiana Public Broadcasting (Original broadcast: February 14).
 
-2006. At The Crossroads of Land and Water. In Louisiana Crossroads: Season 7, 2-9. Lafayette, Louisiana: Acadiana Arts Council.
+2006\. At The Crossroads of Land and Water. In Louisiana Crossroads: Season 7, 2-9. Lafayette, Louisiana: Acadiana Arts Council.
 
-2005. The Land of the Blue Guitar: The Nature of Art and Life at the Crossroads. In Louisiana Crossroads, 2-9. Lafayette, Louisiana: Acadiana Arts Council.
+2005\. The Land of the Blue Guitar: The Nature of Art and Life at the Crossroads. In Louisiana Crossroads, 2-9. Lafayette, Louisiana: Acadiana Arts Council.
 
-2004. The Crossroads in Louisiana. In Louisiana Crossroads 2004-2005, 2-9. Lafayette, Louisiana: Acadiana Arts Council.
+2004\. The Crossroads in Louisiana. In Louisiana Crossroads 2004-2005, 2-9. Lafayette, Louisiana: Acadiana Arts Council.
 
-2004. Louisiana Folk Masters: Varise Conner (CD). Louisiana Crossroads Records.
+2004\. Louisiana Folk Masters: Varise Conner (CD). Louisiana Crossroads Records.
 
-2004. Allons Jouer!, in Louisiana Folk Masters: Varise Conner, 1-2. Lafayette, Louisiana: Louisiana Crossroads Records.
+2004\. Allons Jouer!, in Louisiana Folk Masters: Varise Conner, 1-2. Lafayette, Louisiana: Louisiana Crossroads Records.
 
-2003. Is “Folk” a Four-Letter Word? In Louisiana Voices: An Educator’s Guide, Louisiana Folklife Program (www.louisianavoices.org).
+2003\. Is “Folk” a Four-Letter Word? In Louisiana Voices: An Educator’s Guide, Louisiana Folklife Program (www.louisianavoices.org).
 
-2003. From “Kombo” to Combo: Where Past Meets Future, in Louisiana Crossroads: Musical Journeys, 2-8.
+2003\. From “Kombo” to Combo: Where Past Meets Future, in Louisiana Crossroads: Musical Journeys, 2-8.
 
-2002. Crossing Roads, Crossing Lives, in Louisiana Crossroads: A Million Ways to Get There, 2-9.
+2002\. Crossing Roads, Crossing Lives, in Louisiana Crossroads: A Million Ways to Get There, 2-9.
 
-2001. Imperial Saint Landry Regional Center, Army Corps of Engineers (script for video presentation).
+2001\. Imperial Saint Landry Regional Center, Army Corps of Engineers (script for video presentation).
+
 
 ## Presentations
 
@@ -180,89 +190,89 @@ Laudun, John and Jonathan Goodwin. 2014. Mapping Networks in Service of Intellec
 
 2008\. Genius Loci: Towards a Folkloristic Ethnography of Creativity. American Folklore Society.
 
-2008. Ein bato kit e navigue on la terre com one la mer: Culture and Creativity on a Louisiana Landscape. English Department Symposium.
+2008\. Ein bato kit e navigue on la terre com one la mer: Culture and Creativity on a Louisiana Landscape. English Department Symposium.
 
-2008. AFSweb 2.0: A Scholarly Communications and Publication Platform. American Folklore Society.
+2008\. AFSweb 2.0: A Scholarly Communications and Publication Platform. American Folklore Society.
 
-2007. Gumbo This: The Historical and Ethnic Influences on Cajun Food. International Symposium on Acadians and Cajuns: The Politics and Culture of French Minorities in North America. Canadian Studies Centre, Universitet Innsbruck (Innsbruck, Austria).
+2007\. Gumbo This: The Historical and Ethnic Influences on Cajun Food. International Symposium on Acadians and Cajuns: The Politics and Culture of French Minorities in North America. Canadian Studies Centre, Universitet Innsbruck (Innsbruck, Austria).
 
-2007. “Ein bato ki va sur la terre comme sur le mer [A Boat That Can Go on Land and Water],” American Folklore Society (Quebec, Canada).
+2007\. “Ein bato ki va sur la terre comme sur le mer [A Boat That Can Go on Land and Water],” American Folklore Society (Quebec, Canada).
 
-2006. Going Academic: Fieldwork Relations among Natives Educated and Fine. American Folklore Society (Milwaukee, WI).
+2006\. Going Academic: Fieldwork Relations among Natives Educated and Fine. American Folklore Society (Milwaukee, WI).
 
-2006. An Individual Text and a Community. UL Graduate Conference (Lafayette, Louisiana).
+2006\. An Individual Text and a Community. UL Graduate Conference (Lafayette, Louisiana).
 
-2005. The Gumbo Lines from Africa to Louisiana. Louisiana and the Caribbean Studies Conference. Louisiana State University. (Baton Rouge, Louisiana).
+2005\. The Gumbo Lines from Africa to Louisiana. Louisiana and the Caribbean Studies Conference. Louisiana State University. (Baton Rouge, Louisiana).
 
-2005. Kaliste Saloom & Ambassador Caffery: The Local History(s) and Culture(s) of Lafayette. British Women Writer’s Conference (Lafayette, Louisiana).
+2005\. Kaliste Saloom & Ambassador Caffery: The Local History(s) and Culture(s) of Lafayette. British Women Writer’s Conference (Lafayette, Louisiana).
 
-2005. “Talking Shit” in Rayne. American Folklore Society (Atlanta, GA).
+2005\. “Talking Shit” in Rayne. American Folklore Society (Atlanta, GA).
 
-2004. More than a Thousand Cuts. American Folklore Society (Salt Lake City, UT).
+2004\. More than a Thousand Cuts. American Folklore Society (Salt Lake City, UT).
 
-2004. The Uses and Abuses of Gumbo. Modern Language Association (Philadelphia, PA).
+2004\. The Uses and Abuses of Gumbo. Modern Language Association (Philadelphia, PA).
 
-2004. The Gumbo Lines of Louisiana: History from Maps, Maps from Food, Food from and for People. American Folklore Society (Salt Lake City, UT).
+2004\. The Gumbo Lines of Louisiana: History from Maps, Maps from Food, Food from and for People. American Folklore Society (Salt Lake City, UT).
 
-2003. The Mechanics of Mardi Gras. American Folklore Society (Albuquerque, NM).
+2003\. The Mechanics of Mardi Gras. American Folklore Society (Albuquerque, NM).
 
-2003. Louisiana Folk Masters. (Center for Cultural and Eco-Tourism, Lafayette, Louisiana).
+2003\. Louisiana Folk Masters. (Center for Cultural and Eco-Tourism, Lafayette, Louisiana).
 
-2002. The Discipline Which Is Not One. American Folklore Society (Rochester, NY).
+2002\. The Discipline Which Is Not One. American Folklore Society (Rochester, NY).
 
-2002. Splitting the Difference in Folklore Studies. Louisiana Folklore Society (Natchitoches, Louisiana).
+2002\. Splitting the Difference in Folklore Studies. Louisiana Folklore Society (Natchitoches, Louisiana).
 
-2002. Following The Way of the Masks (expanded). Symposium on Lévi-Strauss, sponsored by the Council for European Philosophy (Durham, United Kingdom).
+2002\. Following The Way of the Masks (expanded). Symposium on Lévi-Strauss, sponsored by the Council for European Philosophy (Durham, United Kingdom).
 
-2001. Creoles in the Balance: Toward a Louisiana Poetics. Modern Language Association (New Orleans, Louisiana).
+2001\. Creoles in the Balance: Toward a Louisiana Poetics. Modern Language Association (New Orleans, Louisiana).
 
-2001. The Elegant and the Mundane. University of Louisiana Graduate Colloquium (Lafayette, Louisiana).
+2001\. The Elegant and the Mundane. University of Louisiana Graduate Colloquium (Lafayette, Louisiana).
 
-2001. Compiling an Inventory of Your Cultural Resources. The Art of Development and Promotion: A Statewide Cultural Tourism Conference (Center for Cultural and Eco-Tourism, Lafayette, Louisiana).
+2001\. Compiling an Inventory of Your Cultural Resources. The Art of Development and Promotion: A Statewide Cultural Tourism Conference (Center for Cultural and Eco-Tourism, Lafayette, Louisiana).
 
-2001. Achieving Critical Mess. American Folklore Society (Anchorage, AL).
+2001\. Achieving Critical Mess. American Folklore Society (Anchorage, AL).
 
-2000. The Discipline Which Is Not One. American Comparative Literature Association (New Haven, CT).
+2000\. The Discipline Which Is Not One. American Comparative Literature Association (New Haven, CT).
 
-2000. “The Theory behind Our Tactics”: Making Semiotics Signify in the Folklore and Literature Classroom. Modern Language Association (Washington, D.C).
+2000\. “The Theory behind Our Tactics”: Making Semiotics Signify in the Folklore and Literature Classroom. Modern Language Association (Washington, D.C).
 
-2000. Following The Way of the Masks. American Folklore Society (Columbus, OH).
+2000\. Following The Way of the Masks. American Folklore Society (Columbus, OH).
 
-2000. Necessary Dichotomies: The Trope of Twinness in Folkloristics. Louisiana Folklore Society (Baton Rouge, Louisiana).
+2000\. Necessary Dichotomies: The Trope of Twinness in Folkloristics. Louisiana Folklore Society (Baton Rouge, Louisiana).
 
-2000. Narrative Uncertainty in Communal and Legal Discourses about Tragedy. Multi-Ethnic Literature in the United States (New Orleans, Louisiana).
+2000\. Narrative Uncertainty in Communal and Legal Discourses about Tragedy. Multi-Ethnic Literature in the United States (New Orleans, Louisiana).
 
-1999. In the Middle of It All: Cultural Constructions of Time in the Midwest (Modern Language Association (Chicago, IL).
+1999\. In the Middle of It All: Cultural Constructions of Time in the Midwest (Modern Language Association (Chicago, IL).
 
-1999. “And Over to His Son He Said You Don’t Care If I Call You Son Do Ya Son?”: Dialogue as Intertextuality, Dialogue as Textuality. American Folklore Society (Memphis, TN).
+1999\. “And Over to His Son He Said You Don’t Care If I Call You Son Do Ya Son?”: Dialogue as Intertextuality, Dialogue as Textuality. American Folklore Society (Memphis, TN).
 
-1999. Authors Authors Everywhere and Not a Drop of Ink. Deep South Writers Conference (Lafayette,Louisiana).
+1999\. Authors Authors Everywhere and Not a Drop of Ink. Deep South Writers Conference (Lafayette,Louisiana).
 
-1998. Reading Hurston Writing. Twentieth Century Literature Conference (Louisville, KY).
+1998\. Reading Hurston Writing. Twentieth Century Literature Conference (Louisville, KY).
 
-1997. Culture Changes: A Report from the Front on Corporate Culture Initiatives. American Folklore Society (Austin, TX).
+1997\. Culture Changes: A Report from the Front on Corporate Culture Initiatives. American Folklore Society (Austin, TX).
 
-1997. Leveraging Consortia in an Executive Education Strategy. Conference on Management Development (Innisbruck, FA).
+1997\. Leveraging Consortia in an Executive Education Strategy. Conference on Management Development (Innisbruck, FA).
 
-1994. Folk Engineers: The Work of Art. American Folklore Society (Milwaukee, WI).
+1994\. Folk Engineers: The Work of Art. American Folklore Society (Milwaukee, WI).
 
-1994. Inventing a Better Wheel: Two Case Studies of Contemporary Craftsmen. American Culture Association (Chicago, IL).
+1994\. Inventing a Better Wheel: Two Case Studies of Contemporary Craftsmen. American Culture Association (Chicago, IL).
 
-1993. Steel, Speech, and Self: Forging Identity. American Ethnological Society and Council for Museum Anthropology (Santa Fe, NM).
+1993\. Steel, Speech, and Self: Forging Identity. American Ethnological Society and Council for Museum Anthropology (Santa Fe, NM).
 
-1992. Overlooked Rhetorics & Poetics: Ethnography as Analysis and Allegory. National Council of Teachers of English (Louisville, KY).
+1992\. Overlooked Rhetorics & Poetics: Ethnography as Analysis and Allegory. National Council of Teachers of English (Louisville, KY).
 
-1992. The Poetics of Vernacular Spaces: How Urban Appalachians Imagine and Realize Space. American Culture Association (Louisville, KY).
+1992\. The Poetics of Vernacular Spaces: How Urban Appalachians Imagine and Realize Space. American Culture Association (Louisville, KY).
 
-1992. Local Poetics: Folklore’s Contribution to Composition. Conference on College Composition and Communication (Cincinnati, OH).
+1992\. Local Poetics: Folklore’s Contribution to Composition. Conference on College Composition and Communication (Cincinnati, OH).
 
-1991. Contiguous Structures in Performance. American Folklore Society (St. John’s, Newfoundland).
+1991\. Contiguous Structures in Performance. American Folklore Society (St. John’s, Newfoundland).
 
-1991. The Unselfconscious Muse: The Dynamics of “Flowlore”. American Culture Association (San Antonio, TX).
+1991\. The Unselfconscious Muse: The Dynamics of “Flowlore”. American Culture Association (San Antonio, TX).
 
-1990. Author! Author?: Authority and Authorship in the Desktop Publishing Classroom. Conference on Computers and Composition (Austin, TX).
+1990\. Author! Author?: Authority and Authorship in the Desktop Publishing Classroom. Conference on Computers and Composition (Austin, TX).
 
-1990. The Context of Context in Folkloristics. American Culture Association (Toronto, Ontario).
+1990\. The Context of Context in Folkloristics. American Culture Association (Toronto, Ontario).
 
 
 
