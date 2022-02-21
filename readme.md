@@ -11,13 +11,13 @@ This portfolio is a companion to a [website](https://johnlaudun.net/) I have mai
 Academic vitae are long. To make it easier to jump to sections that might interest someone, the following quick links are below with the fuller outline below that. Please note that links to publications in the vita are to the published materials and links in the outline of contents may be to galleys or earlier drafts. Wherever possible, please cite the published version. (If you are a scholar who does not have access to these versions, please contact me and I will find a way to get materials to you.)
 
 * [Vita](vita.md)
-* <a name="publications">Publications</a>
-* Presentations
-* Statements
+* Publications <a id="publications">v</a>
+* Presentations a id="presentations">v</a>
+* Statements a id="statements">&#x21A1;</a>
 
 ### [Publications](#publications)
 ### Presentations (#presentations)
 ### Statements (#statements)
-    - [Research](statements/research.md)
-    - [Teaching](statements/teaching.md)
-    - [Diversity](statements/diversity.md)
+- [Research](statements/research.md)
+- [Teaching](statements/teaching.md)
+- [Diversity](statements/diversity.md)
