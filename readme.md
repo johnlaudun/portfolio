@@ -23,7 +23,15 @@ Academic vitae are long. To make it easier to jump to sections that might intere
 - 2020: The Clown Legend Cascade of 2016.
 - 2019: Folklore as a Networked Economy: How a Recently-Invented-but-Traditional Artifact Reveals the Way Folkloric Production Has Always Worked.
 - 2019: TED Talks as Data.
+
 ### Presentations
+- 2000-afs-masks.md [text]() | [doc](masks.doc)
+- 2017: construit-2017.md
+- Laudun-2013-Chinese_Academy.pdf
+- Laudun-2014-IU-Mathers_Museum.pdf
+- Laudun-2014-Library_of_Congress.pdf
+- Laudun-2017-Construit.pdf
+
 ### Statements
 - [Research](statements/research.md)
 - [Teaching](statements/teaching.md)
