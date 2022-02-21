@@ -12,12 +12,19 @@ Academic vitae are long. To make it easier to jump to sections that might intere
 
 * [Vita](vita.md)
 * Publications [&#x21A1;](#publications)
-* Presentations <a id="presentations">&#x21A1;</a>
-* Statements <a id="statements">&#x21A1;</a>
+* Presentations [&#x21A1;](#presentations)
+* Statements [&#x21A1;](#statements)
 
 ### Publications
-### Presentations (#presentations)
-### Statements (#statements)
+- 2022: Weathering the Storm: Folk Ideas about Character.
+- 2021: Repairing Knowledge.
+- 2021: The Department Of Defense’s Multidomain Operations Challenge.
+- 2021: Narrative as a Mode of Vernacular/Folk Discourse.
+- 2020: The Clown Legend Cascade of 2016.
+- 2019: Folklore as a Networked Economy: How a Recently-Invented-but-Traditional Artifact Reveals the Way Folkloric Production Has Always Worked.
+- 2019: TED Talks as Data.
+### Presentations
+### Statements
 - [Research](statements/research.md)
 - [Teaching](statements/teaching.md)
 - [Diversity](statements/diversity.md)
