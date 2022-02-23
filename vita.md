@@ -26,7 +26,7 @@ Laudun, John et al. 2021. The Department Of Defense’s Multidomain Operations C
 
 Laudun, John. 2021. Narrative as a Mode of Vernacular/Folk Discourse. _Western Folklore_ 80.3/4 ﴾Summer/Fall 2021﴿: 401‐435.
 
-Laudun, John. 2020. The Clown Legend Cascade of 2016. In Folklore and Social Media. Ed. Trevor Blank. SUNY Press.
+Laudun, John. 2020. The Clown Legend Cascade of 2016. In _Folklore and Social Media_, 188-208. Ed. Andrew Peck and Trevor Blank. University Press of Colorado.
 
 Laudun, John. 2019. Folklore as a Networked Economy: How a Recently-Invented-but-Traditional Artifact Reveals the Way Folkloric Production Has Always Worked. In Folklorists in the Marketplace, 26-46. Ed. Willow Mullins and Puja Batra-Wells. Utah State University Press. PDF
 
