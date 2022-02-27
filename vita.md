@@ -31,9 +31,9 @@ Assistant Professor. Department of English. University of Louisiana at Lafayette
 
 ## Distinctions
 
-2016\. Senior Scholar in Residence. NSF Culture Analytics Long Program.Institute for Pure and Applied Mathematics (UCLA).
+2016\. Senior Scholar in Residence. NSF Culture Analytics Long Program. Institute for Pure and Applied Mathematics (UCLA).
 
-2013\. Ethnographer in Residence. NEH/University of Virginia Scholar’s Lab Speaking in Code Symposium.
+2013\. Ethnographer in Residence. Speaking in Code Symposium. NEH/University of Virginia Scholar’s Lab.
 
 2010\. Senior Fellow. NEH Institute: Networks and Networking in the Humanities. Institute for Pure and Applied Mathematics. UCLA.
 
@@ -156,6 +156,8 @@ Bale, Rachel. 2013. Worker Suffocations Persist as Grain Storage Soars. Rachel B
 2001\. Imperial Saint Landry Regional Center, Army Corps of Engineers (script for video presentation).
 
 ### Interviews
+
+Edge, John T. 2017. On Crawfish Boats and Taco Baskets. _Oxford American_ (Spring): 38-41.
 
 Sherman, Dayne. 2016. Louisiana Talks: Interview with Dr. John Laudun. _Louisiana Libraries_ 78(3): 13-18.
 
@@ -420,10 +422,6 @@ Laudun, John and Jonathan Goodwin. 2014. Mapping Networks in Service of Intellec
 
 ### Media Appearances/Citations
 
-2017\. … what?
-
-2017\. Oxford American.
-
 2016\. “The Amazing Crawfish Boat.” The Jim Engster Show.
 
 2016\. “The Amazing Crawfish Boat.” KRVS.
@@ -552,76 +550,72 @@ Reviewer, Utah State University Press.
 
 ### University of Louisiana at Lafayette
 
-English 632. Proseminar in Folklore Theory.
+**English 332: Introduction to Folklore**. This iteration of the Introduction to Folklore course is focused on folk narrative. Participants in the course will encounter diverse definitions of and theories about narrative, examine various forms of narrative (with a focus on traditional genres of folklore), collect and document instances of folk narrative, and produce an analytical research report on those materials. Participants in this course will learn how to read scholarly and scientific definitions and analyses of human nature with a special emphasis on narrative and then apply those definitions or reproduce such analyses in their own thinking and writing. Writing is a significant component of any communication, be it scientific or professional, and participants in this course will be required to assume those voices necessary to accomplishing a particular task. In addition, as a course in folklore studies participants will also create documentation containing both metadata and data in appropriate markup, which may or may not include things like XML.
 
-English 531. The Study of Narrative.
+**English 334: Digital Folklore and Culture**. Memes, fake news, trolling, rickrolling are all well-established forms of internet behavior and are as much a part of our everyday lives as grandma’s gumbo. English 334 explores the varieties and depths of digital cultures, from the first email forwards to the latest tiktoks and everything in between. Course activities include curating collections of multimedia materials; learning how to parse digital content; annotating, sorting, and compiling data sets; applying appropriate analytical frameworks; and exploring ways to present your ideas effectively. The course includes producing an online portfolio and learning collaborative and versioning systems to make it possible to work with others as well as secure your own work.
 
-English 531. The Poetics of Creativity.
+**English 335: Louisiana Folklore**. Someone once called Louisiana a "folklore land" and we do live in a state, and in a region of the state, where folklore not only abides in abundance but is the subject of a great deal of attention by scholars and citizens, tourists and natives. This course encourages students to take a closer look for themselves at the folklore that surrounds each of us, at the various ways it has been and is currently being represented, and at the ways that it is used to create our everyday reality. Taking a closer look requires students to go out and "see" for themselves various aspects of Louisiana folklife, and then transforming that research into writing that will be shared with others. As part of learning how to write about folk culture, the course includes a survey of literature about Louisiana.
 
-Engishl 531. Folk Art and Material Culture.
+**English 432: American Folklore**. With the rise of social media and the diversification of information channels, there also came a comcomitant rise in alternative points of view, fake news, and even "alt facts." Much of the establishment seemed surprised, but for folklorists this was little more than an expansion and throttling up of the legend conduit. Sometimes dismissed as little more than "urban myths," legends are a powerful form of communication (and community-building), and the focus of thi course. We will begin with classical legends and their study, work our way through the rise of urban legends, and then proceed to examine the complex mix of legendry and legend-like material that is pervasive on the internet and among us. As an advanced course for undergraduates and a foundational course for graduate students, this course attempts to address folk materials, and dynamics in terms of rhetorical effectiveness, literary/generic structure, and cultural history. Some students will be interested in the theory that will be used throughout the course, and non-folklorists interested in American literature and culture will find the historical dimensions critical to understanding certain genres/topics of American fiction.
 
-English 482. Folklore Genres.
+**English 482: Folklore Genres**. Each and everyday we get up and participate in a combined reality that we negotiate through a shared set of conventions -- even how we individuate ourselves is based on something we have in common. Most of these conventions are not written down anywhere nor are they taught in school, and yet somehow we know them: we know what to do and what not to do. This course examines these ways of talking and ways of doing upon which we depend. We will, of course, spend a fair amount of our time focused on ways of talking, but we will also examine other forms of socialization and social interaction: games, houses, food, among others. This course requires an independent research project on a topic of the student's choosing, which will be shared with others. As an advanced course for undergraduates and a foundational course for graduate students, this course attempts to address folk materials, and dynamics in terms of rhetorical effectiveness, literary/generic structure, and cultural history. Some students will be interested in the theory that will be used, albeit lightly, throughout the course, and non-folklorists interested in American literature and culture will find the historical dimensions critical to understanding certain genres/topics of American fiction.
 
-English 449. Folklore Fieldwork.
+**English 531:. The Study of Narrative**. Stories feature prominently in our lives and in discourses about our lives. Children ask parents to tell them a story; we swap stories as adults in order to get to know each other; and, increasingly, doctors and lawyers describe the work they do in terms of stories. This seminar is designed to familiarize participants with the wide range of scholarship and science that treats stories. Our goal will be to refine our own working definition of narrative both to understand its nature but also, for those interested in creative projects, to refine our practice. It should be clear from this description that this seminar is open to a wide range of interests: creative, literary, folkloristic, rhetorical, and linguistic.
 
-English 440. Folklore and Literature.
+**English 632: Proseminar in Folklore Theory**. This course is a survey of key concepts, problems, and perspectives in folklore theory and method, focusing on key moments, ideas, and texts in the evolution of folklore studies in order to acquire a "feel" for the foundations of the discipline. For the purposes of this course, the field is conceived fairly broadly and includes work done in adjacent fields like anthropology, sociology, psychology, linguistics, and literary studies. As much as it is possible, the readings are chronological, allowing participants to follow the interactive dimensions of intellectual history, wherein one theory arises as a response to (extension of, corrective of, or refutation of) another theory. Mileage in such a chronology must vary, however, as some texts (usually those that awaited translation) are considered in the context of those texts they most influenced.
 
-English 432. American Folklore.
-
-English 365. Technical Writing.
-
-English 335. Louisiana Folklore.
-
-English 332. Introduction to Folklore.
-
-English 115. Honors Freshman English.
-
-### Student Theses & Dissertations
-
-### GRADUATE: English
-—*. Aunya Byrd. Ph.D. Dissertation.
-—*. Amanda Laroche. Ph.D. Dissertation.
-2014*. Brenna Heffner. Ph.D. Dissertation.
-2014*. Kristen Bradley. Ph.D. Dissertation.
-2012*. Brandon Barker. Ph.D. Dissertation.
-2010*. Monique Dupas. M.A. Thesis.
-2010*. Louis Toliver. M.A. Thesis.
-2008*. Wanda Addison. Ph.D. Dissertation.
-2006*. James Reitter. Ph.D. Dissertation.
-2005*. Cheramie Richard. “Shortbread: Oral History as Community Creation” (M.A., Folklore).
-2004. Lana Henry. Ph.D. Dissertation.
-2004*. Kristi Guillory. “Cajun Music: An Analysis of a Lyrical Tradition” (M.A., Folklore).
-2003. Connie Herndon. Ph.D. Dissertation.
-2003. Billy Fontenot. “Eighty Years” (Ph.D., Creative Writing).
-2002. Jeanne Soileau. Ph.D. Dissertation.
-2001. Matt Dube. Ph.D. Dissertation.
-2000. Kenneth Bearden. Ph.D. Dissertation.
-
-#### GRADUATE: modern languages
-2006. Carmen D’Entremont. M.A. Thesis (Francophone Studies).
-2001. Luc Guglielmi. M.A. Thesis (Francophone Studies).
-
-#### GRADUATE: architecture
-2014. Joe Frick.
-2009. Ashley LeBlanc.
-2005. Matthew Baker. “From Cajun to Urban: Developing a Regional Design Program for Public Structures.”
-2004. Chris Fowler. “Conditional Thresholds of Conflict: Spatial, Phenomenological, Geographical, and Environmental Effects.”
-UNDERGRADUATE: honors
-2004. Matthew Spizale. “The Cultural Evolution of the Sicilian Immigrant Community of New Orleans from 1880 to World War II.”
-2003. Keith Manuel. “Parsimonious Injustice?: Spain’s Detention of Military Hostages during the American Revolution, 1781-1783.”
-2001*. Sarah Mertins. “La Llorona: A Legend Examined.”
-
-#### Mentorships
-
-2010-2011. Mentor to UL-Lafayette’s HASTAC Scholar John Anderson.
-
-2010-2011. Mentor to UL-Lafayette’s HASTAC Scholar Kyle Felker.
+Other courses taught at UL-Lafayette: English 115: Honors Freshman English, English 365: Technical Writing, English 449: Folklore Fieldwork, English 531: The Poetics of Creativity, Engishl 531: Folk Art and Material Culture.
 
 ### Teaching Interests
 
 **Theoretical/Methodological**: Computational/structural approaches to texts, cultural theories and studies, narrative studies, folklore studies, documentary studies, semiotic approaches to cultural artifacts. 
 
 **Topical/Areal**: American studies, regional and language literatures (Caribbean and African in English), creole and ethnic studies, United States folk cultures.
+
+### Student Theses & Dissertations
+
+### Graduate: English
+
+—*. Aunya Byrd. Ph.D. Dissertation.  
+2018*. Amanda Laroche. Ph.D. Dissertation.  
+2014*. Brenna Heffner. Ph.D. Dissertation.  
+2014*. Kristen Bradley. Ph.D. Dissertation.  
+2012*. Brandon Barker. Ph.D. Dissertation.  
+2010*. Monique Dupas. M.A. Thesis.  
+2010*. Louis Toliver. M.A. Thesis.  
+2008*. Wanda Addison. Ph.D. Dissertation.  
+2006*. James Reitter. Ph.D. Dissertation.  
+2005*. Cheramie Richard. “Shortbread: Oral History as Community Creation” (M.A., Folklore).  
+2004\. Lana Henry. Ph.D. Dissertation.  
+2004*. Kristi Guillory. “Cajun Music: An Analysis of a Lyrical Tradition” (M.A., Folklore).  
+2003\. Connie Herndon. Ph.D. Dissertation.  
+2003\. Billy Fontenot. “Eighty Years” (Ph.D., Creative Writing).  
+2002\. Jeanne Soileau. Ph.D. Dissertation.  
+2001\. Matt Dube. Ph.D. Dissertation.  
+2000\. Kenneth Bearden. Ph.D. Dissertation.  
+
+#### GRADUATE: Modern Languages
+
+2006\. Carmen D’Entremont. M.A. Thesis (Francophone Studies).  
+2001\. Luc Guglielmi. M.A. Thesis (Francophone Studies).
+
+#### GRADUATE: Architecture
+
+2014\. Joe Frick.  
+2009\. Ashley LeBlanc.  
+2005\. Matthew Baker. “From Cajun to Urban: Developing a Regional Design Program for Public Structures.”  
+2004\. Chris Fowler. “Conditional Thresholds of Conflict: Spatial, Phenomenological, Geographical, and Environmental Effects.”  
+
+#### UNDERGRADUATE: Honors
+
+2004\. Matthew Spizale. “The Cultural Evolution of the Sicilian Immigrant Community of New Orleans from 1880 to World War II.”  
+2003\. Keith Manuel. “Parsimonious Injustice?: Spain’s Detention of Military Hostages during the American Revolution, 1781-1783.”  
+2001*. Sarah Mertins. “La Llorona: A Legend Examined.”
+
+#### Mentorships
+
+2010-2011. Mentor to UL-Lafayette’s HASTAC Scholar John Anderson.  
+2010-2011. Mentor to UL-Lafayette’s HASTAC Scholar Kyle Felker.
 
 
 ## Service
@@ -636,7 +630,7 @@ UNDERGRADUATE: honors
 
 2008-2012. University Liaison, Project Bamboo, a consortium funded by the Andrew Mellon Foundation and led by the University of Chicago and UC–Berkeley. (Release time granted.)
 
-2010. Digital Repository Planning Team. University of Louisiana at Lafayette.
+2010\. Digital Repository Planning Team. University of Louisiana at Lafayette.
 
 2009-2010. IT Strategic Task Force. University of Louisiana at Lafayette.
 
@@ -650,21 +644,21 @@ UNDERGRADUATE: honors
 
 2000-02. Graduate Writing Exam Committee, Graduate School. University of Louisiana at Lafayette.
 
-1997. Co-coordinator, Associate Instructor Diversity Training, Office of Academic Affairs, Indiana University.
+1997\. Co-coordinator, Associate Instructor Diversity Training, Office of Academic Affairs, Indiana University.
 
 1994-95. University Affirmative Action Committee, Indiana University.
 
 ### College
 
-2015. Overview of Digital Humanities. THATCamp. University of Louisiana at Lafayette. 
+2015\. Overview of Digital Humanities. THATCamp. University of Louisiana at Lafayette. 
 
 2007-2012. Digital Humanities Liaison. College of Liberal Arts. University of Louisiana at Lafayette.
 
-2004. Invocation and Benediction, Commencement, College of Liberal Arts. University of Louisiana at Lafayette.
+2004\. Invocation and Benediction, Commencement, College of Liberal Arts. University of Louisiana at Lafayette.
 
 2001-2008. Research Fellow, Center for Cultural and Eco-Tourism, College of Liberal Arts. University of Louisiana at Lafayette.
 
-2001. Invocation and Benediction, Commencement, College of Liberal Arts. University of Louisiana at Lafayette.
+2001\. Invocation and Benediction, Commencement, College of Liberal Arts. University of Louisiana at Lafayette.
 
 1999-2008. Chair, Folklore Committee, College of Liberal Arts. University of Louisiana at Lafayette.
 
@@ -672,15 +666,15 @@ UNDERGRADUATE: honors
 
 2013-16. Member. Personnel Committee.
 
-2015. Chair. Search Committee for Trans-Atlantic Literary Studies tenure-track position.
+2015\. Chair. Search Committee for Trans-Atlantic Literary Studies tenure-track position.
 
 2012-13. Chair. Search Committee for Folklore and Literature tenure-track position.
 
 2008-12. Chair. Graduate Faculty Committee
 
-2006. Discussant. English 499 panel on “Public Folklore.” Presentation entitled “Pubfolk Ops.”
+2006\. Discussant. English 499 panel on “Public Folklore.” Presentation entitled “Pubfolk Ops.”
 
-2006. Discussant. English 596 Panel on “Work in the Academy.” Presentation entitled “What Do Folklorists Do All Day?”
+2006\. Discussant. English 596 Panel on “Work in the Academy.” Presentation entitled “What Do Folklorists Do All Day?”
 
 2006-2012. Member. English Education Committee.
 
@@ -688,9 +682,9 @@ UNDERGRADUATE: honors
 
 2004-2008. Member. Undergraduate Curriculum Committee.
 
-2003. Faculty Coordinator. Departmental Website Revision Team.
+2003\. Faculty Coordinator. Departmental Website Revision Team.
 
-2002. Acting Graduate Coordinator, Department of English. University of Louisiana at Lafayette.
+2002\. Acting Graduate Coordinator, Department of English. University of Louisiana at Lafayette.
 
 2002-2008. Member. Ph.D. Exam Committee. Department of English.
 
@@ -702,7 +696,8 @@ UNDERGRADUATE: honors
 
 2000-02. Member, Information Techology & Departmental Website Committees, Department of English. University of Louisiana at Lafayette.
 
-1988. Senior Faculty Search Committee, Writing Program, Syracuse University.
+1988\. Senior Faculty Search Committee, Writing Program, Syracuse University.
+
 
 ### Professional
 
@@ -712,15 +707,15 @@ UNDERGRADUATE: honors
 
 2007–. American Folklore Society Publications Committee.
 
-2006. Participant, Professional Development Survey, American Folklore Society.
+2006\. Participant, Professional Development Survey, American Folklore Society.
 
-2004. Chair, Folklore and Literature Discussion Group, Modern Language Association.
+2004\. Chair, Folklore and Literature Discussion Group, Modern Language Association.
 
-2004. Folklife Grants panelist, Division of the Arts, State of Louisiana.
+2004\. Folklife Grants panelist, Division of the Arts, State of Louisiana.
 
-2003. Chair, American Folklore Society Section Meeting, Modern Language Association.
+2003\. Chair, American Folklore Society Section Meeting, Modern Language Association.
 
-2001. Chair, Folklore and Literature Discussion Group, Modern Language Association.
+2001\. Chair, Folklore and Literature Discussion Group, Modern Language Association.
 
 2000–. Board Member, Folk Art Discussion Group, American Folklore Society.
 
@@ -732,19 +727,19 @@ UNDERGRADUATE: honors
 
 2011-. Consultant. Boy Scouts of America, Evangeline Council.
 
-2006. Nominee. Man of the Year. Acadiana Leukemia and Lymphoma Society.
+2006\. Nominee. Man of the Year. Acadiana Leukemia and Lymphoma Society.
 
-2005. DAF Grant Panelist, Acadiana Arts Council (Lafayette, Louisiana).
+2005\. DAF Grant Panelist, Acadiana Arts Council (Lafayette, Louisiana).
 
-2004. DAF Grant Panelist, Acadiana Arts Council (Lafayette, Louisiana).
+2004\. DAF Grant Panelist, Acadiana Arts Council (Lafayette, Louisiana).
 
-2003. DAF Grant Panelist, Acadiana Arts Council (Lafayette, Louisiana).
+2003\. DAF Grant Panelist, Acadiana Arts Council (Lafayette, Louisiana).
 
 2000–. Consultant, Saint Landry Foodways Research Center (Washington, Louisiana).
 
 2000-01. Consultant and Coordinator, La Vie en Acadie Folklife Festival, Lafayette Jaycees (Lafayette, Louisiana).
 
-2000. Grant Reviewer, Acadiana Arts Council (Lafayette, Louisiana).
+2000\. Grant Reviewer, Acadiana Arts Council (Lafayette, Louisiana).
 
 
 ## Links
