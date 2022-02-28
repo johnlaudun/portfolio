@@ -624,7 +624,7 @@ Other courses taught at UL-Lafayette: English 115: Honors Freshman English, Engl
 
 2013-16. Faculty Grievance Committee. University of Louisiana at Lafayette. 
 
-2015. Dangerous Games. University of Louisiana Retention Summit.
+2015\. Dangerous Games. University of Louisiana Retention Summit.
 
 2013-14. Graduate Council. University of Louisiana at Lafayette.
 
@@ -744,8 +744,5 @@ Other courses taught at UL-Lafayette: English 115: Honors Freshman English, Engl
 
 ## Links
 
-https://publons.com/researcher/1741597/john-laudun/
-
-https://orcid.org/0000-0002-7555-7562
-
-§§§
+https://publons.com/researcher/1741597/john-laudun/  
+https://orcid.org/0000-0002-7555-7562  

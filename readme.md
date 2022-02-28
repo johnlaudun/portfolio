@@ -15,7 +15,8 @@ Academic vitae are long. To make it easier to jump to sections that might intere
 * Presentations [&#x21A1;](#presentations)
 * Statements [&#x21A1;](#statements)
 
-### Publications
+### Publications ([View the directory](presentations/))
+
 - 2022: Weathering the Storm: Folk Ideas about Character.
 - 2021: Repairing Knowledge.
 - 2021: The Department Of Defense’s Multidomain Operations Challenge.
