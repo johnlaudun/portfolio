@@ -5,10 +5,10 @@ Department of English
 University of Louisiana  
 Lafayette, LA 70504  
 laudun at louisiana dot edu  
-[Web](https://johnlaudun.net/)  
-[GitHub](https://github.com/johnlaudun)  
-[@johnlaudun](https://twitter.com/johnlaudun)  
-[LinkedIn](https://www.linkedin.com/in/johnlaudun/)
+Website: https://johnlaudun.net/
+GitHub: https://github.com/johnlaudun
+Twitter: https://twitter.com/johnlaudun
+Medium: https://johnlaudun.medium.com
 
 ## Education
 
@@ -20,9 +20,9 @@ B.A. Philosophy and English (dual major). Louisiana State University. 1986.
 
 ## Employment
 
-Professor. Department of Multi-Domain Operations. Combined Arms Center. U.S. Army. 2020-present.
+Professor. Department of Multi-Domain Operations. Combined Arms Center. U.S. Army. 2021-present.
 
-Professor. Department of English. University of Louisiana at Lafayette at Lafayette. 2016–present (leave of absence).
+Professor. Department of English. University of Louisiana at Lafayette at Lafayette. 2016–present (2021-2022: leave of absence to work with Army).
 
 Associate Professor. Department of English. University of Louisiana at Lafayette at Lafayette. 2007–2016.
 
@@ -35,7 +35,7 @@ Assistant Professor. Department of English. University of Louisiana at Lafayette
 
 2013\. Ethnographer in Residence. Speaking in Code Symposium. NEH/University of Virginia Scholar’s Lab.
 
-2010\. Senior Fellow. NEH Institute: Networks and Networking in the Humanities. Institute for Pure and Applied Mathematics. UCLA.
+2010\. Fellow. NEH Institute: Networks and Networking in the Humanities. Institute for Pure and Applied Mathematics. UCLA.
 
 2009\. Fellow. Ethnographic Video for Instruction and Analysis Digital Archive. Indiana University / Michigan University.
 
@@ -63,7 +63,7 @@ Laudun, John. [2022]. Weathering the Storm: Folk Ideas about Character. In _Weat
 
 Laudun, John. 2021. Repairing Knowledge. In _Les Réparations dans l'Histoire: Cultures Techniques et Savoir-Faire dans la Longue Durée_, 395–406. Ed. Gianenrico Bernasconi, Guillaume Carnino, Liliane Hilaire-Pérez, and Olivier Raveux. Presses des Mines – Transvalor.
 
-Laudun, John et al. 2021. The Department Of Defense’s Multidomain Operations Challenge. *Global Security Review* ﴾October 21﴿. https://globalsecurityreview.com/defense‐department‐multidomain‐operations‐challenge/. 
+Laudun, John, Tom Kroh, Mahbube Sidikki, Robert Arp, and Adam Lowther. 2021. The Department Of Defense’s Multidomain Operations Challenge. *Global Security Review* ﴾October 21﴿. https://globalsecurityreview.com/defense‐department‐multidomain‐operations‐challenge/. 
 
 Laudun, John. 2021. Narrative as a Mode of Vernacular/Folk Discourse. _Western Folklore_ 80.3/4 ﴾Summer/Fall 2021﴿: 401‐435.
 
@@ -121,7 +121,7 @@ Laudun, John. 1996. Folkways. In Am*erican Folklore: An Encyclopedia*, 295–298
 
 Laudun, John. 1990. The Poetics of Virtual Space: Designing a Contiguous Architecture for Hypertexts. In *Multiple Perspectives: Courseware Development Using Hypercard*. Syracuse, NY: Syracuse University Writing Program.
 
-### Miscellaneous (Essays, Television, CD)
+### Miscellaneous (Essays, Television, CDs)
 
 2013\. Dangerous Games. *Chronicle of Higher Education* (October 1).
 
@@ -155,7 +155,7 @@ Bale, Rachel. 2013. Worker Suffocations Persist as Grain Storage Soars. Rachel B
 
 2001\. Imperial Saint Landry Regional Center, Army Corps of Engineers (script for video presentation).
 
-### Interviews
+### Interviewed
 
 Edge, John T. 2017. On Crawfish Boats and Taco Baskets. _Oxford American_ (Spring): 38-41.
 
@@ -171,6 +171,8 @@ Bale, Rachel. 2013. Worker Suffocations Persist as Grain Storage Soars. Rachel B
 ## Presentations
 
 ### Conference Papers
+
+Lowther, Adam, John Laudun, and Melvin de la Cruz. 2021\. Possibilities for Modeling and Simulation. United States Strategic Command Deterrence Symposium. 
 
 2019\. Modes of Vernacular Discourse. American Folklore Society (Baltimore, MD).
 
@@ -348,6 +350,8 @@ Laudun, John and Jonathan Goodwin. 2014. Mapping Networks in Service of Intellec
 
 ### Public Presentations
 
+2021\. Genius Loci. Mensa of Kansas City (Kansas City, MO).
+
 2017\. Places of Politics. Panel on “The Politics of Place” hosted by the University Art Museum, University of Louisiana at Lafayette. 
 
 2016\. All of Us, Everybody. Alpha Lambda Delta Initiation Ceremony. University of Louisiana at Lafayette. 
@@ -501,7 +505,9 @@ Laudun, John and Jonathan Goodwin. 2014. Mapping Networks in Service of Intellec
 
 ### Manuscript Reviews
 
-Reviewer, Utah State University Press.
+2021-22\. Reviewer, _Journal of Military Learning_. 
+
+2013-2017\. Reviewer, Utah State University Press.
 
 2012\. Reviewer, _Museum Anthropology Review_ (Bloomington, Indiana).
 
@@ -686,24 +692,25 @@ Other courses taught at UL-Lafayette: English 115: Honors Freshman English, Engl
 
 2002\. Acting Graduate Coordinator, Department of English. University of Louisiana at Lafayette.
 
-2002-2008. Member. Ph.D. Exam Committee. Department of English.
+2002-2008\. Member. Ph.D. Exam Committee. Department of English.
 
-2002-03. Member, Graduate Course Offerings Committee, Department of English. University of Louisiana at Lafayette.
+2002-03\. Member, Graduate Course Offerings Committee, Department of English. University of Louisiana at Lafayette.
 
-2000-02. Secretary, Graduate Committee, Department of English. University of Louisiana at Lafayette.
+2000-02\. Secretary, Graduate Committee, Department of English. University of Louisiana at Lafayette.
 
-1999–. Member, Creative Writing Committee, Department of English. University of Louisiana at Lafayette.
+1999–\. Member, Creative Writing Committee, Department of English. University of Louisiana at Lafayette.
 
-2000-02. Member, Information Techology & Departmental Website Committees, Department of English. University of Louisiana at Lafayette.
+2000-02\. Member, Information Techology & Departmental Website Committees, Department of English. University of Louisiana at Lafayette.
 
 1988\. Senior Faculty Search Committee, Writing Program, Syracuse University.
 
 
 ### Professional
+2015-\. Member. Casebook Editorial Board. International Society for Contemporary Legend Research.
 
-2008-2012. Editor, American Folklore Society website, www.americanfolkloresociety.org. (Release time granted.)
+2008-2012\. Editor, American Folklore Society website, www.americanfolkloresociety.org. 
 
-2008–. American Folklore Society Scholarly Communications in Folklore Working Group.
+2008–\. American Folklore Society Scholarly Communications in Folklore Working Group.
 
 2007–. American Folklore Society Publications Committee.
 
@@ -717,11 +724,11 @@ Other courses taught at UL-Lafayette: English 115: Honors Freshman English, Engl
 
 2001\. Chair, Folklore and Literature Discussion Group, Modern Language Association.
 
-2000–. Board Member, Folk Art Discussion Group, American Folklore Society.
+2000–\. Board Member, Folk Art Discussion Group, American Folklore Society.
 
-1999–. Board Member, Folklore and Literature Discussion Group, Modern Language Association.
+1999–\. Board Member, Folklore and Literature Discussion Group, Modern Language Association.
 
-1999-2003. Board Member, AFS@MLA, American Folklore Society.
+1999-2003\. Board Member, AFS@MLA, American Folklore Society.
 
 ### Community
 

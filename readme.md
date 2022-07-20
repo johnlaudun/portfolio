@@ -15,7 +15,7 @@ Academic vitae are long. To make it easier to jump to sections that might intere
 * Presentations [&#x21A1;](#presentations)
 * Statements [&#x21A1;](#statements)
 
-### Publications ([View the directory](presentations/))
+### Publications ([View the directory](publications/).)
 
 - 2022: Weathering the Storm: Folk Ideas about Character.
 - 2021: Repairing Knowledge.
@@ -25,7 +25,7 @@ Academic vitae are long. To make it easier to jump to sections that might intere
 - 2019: Folklore as a Networked Economy: How a Recently-Invented-but-Traditional Artifact Reveals the Way Folkloric Production Has Always Worked.
 - 2019: TED Talks as Data.
 
-### Presentations
+### Presentations ([View the directory](presentations/).)
 - 2000-afs-masks.md [text]() | [doc](masks.doc)
 - 2017: construit-2017.md
 - Laudun-2013-Chinese_Academy.pdf
