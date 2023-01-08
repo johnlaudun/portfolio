@@ -29,7 +29,3 @@ Academic vitae are long. To make it easier to jump to sections that might intere
 - Laudun-2014-Library_of_Congress.pdf
 - Laudun-2017-Construit.pdf
 
-### Statements
-- [Research](statements/research.md)
-- [Teaching](statements/teaching.md)
-- [Diversity](statements/diversity.md)
